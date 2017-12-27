@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace VS_2015_Demo
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //Changes on the Main Branch from VS 2010
-        }
     }
 }
