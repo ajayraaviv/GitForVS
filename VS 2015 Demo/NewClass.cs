@@ -8,5 +8,6 @@ namespace VS_2015_Demo
 {
     class NewClass
     {
+        //Addiitnal 1.1 changes
     }
 }
