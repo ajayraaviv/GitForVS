@@ -14,6 +14,7 @@ namespace VS_2015_Demo
             //v1.1 changes
 
             //master changes
+            //these changes will be stashed
         }
     }
 }
