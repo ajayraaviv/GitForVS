@@ -12,6 +12,8 @@ namespace VS_2015_Demo
         {
             //Changes on the Main Branch from VS 2010
             //v1.1 changes
+
+            //master changes
         }
     }
 }
